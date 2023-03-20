@@ -10,13 +10,13 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### ⚡Programming Languages
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(1).jpeg" alt="Descripción de la imagen" width="75" height="75" />
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(2).jpeg" alt="Descripción de la imagen" width="75" height="75" />
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(4).jpeg" alt="Descripción de la imagen" width="75" height="75" />
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(5).jpeg" alt="Descripción de la imagen" width="75" height="75" />
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(6).jpeg" alt="Descripción de la imagen" width="75" height="75" />
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(7).jpeg" alt="Descripción de la imagen" width="75" height="75" />
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th.jpeg" alt="Descripción de la imagen" width="75"height="75" />
+<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th.jpeg" alt="Descripción de la imagen" width="75" height="75" />  <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(1).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(7).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(2).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(4).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(5).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(6).jpeg" alt="Descripción de la imagen" width="75" height="75" /> 
+
+
+
+
+
+
 
 
 
