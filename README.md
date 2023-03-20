@@ -10,10 +10,11 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### ⚡Programming Languages
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th.jpeg" alt="Descripción de la imagen" width="75" height="75" />  <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(1).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(7).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(2).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(4).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(5).jpeg" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(6).jpeg" alt="Descripción de la imagen" width="75" height="75" /> 
+<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/570px-C_Programming_Language.svg.png" alt="Descripción de la imagen" width="75" height="75" />  <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/ISO_C%2B%2B_Logo.svg.png" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th%20(7).jpeg" alt="Descripción de la imagen" width="100" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/tuFExZl.png" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/java.png" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/servidor-sql.png" alt="Descripción de la imagen" width="75" height="75" /> <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/Images/languages/th.jpeg" width="125" height="75" /> 
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-
+### 😄 Basic Information
 
 
 
