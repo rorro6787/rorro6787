@@ -1,4 +1,6 @@
 ## Rodrigo Carreira
+[![Mi foto de perfil](https://github.com/rorro6787/rorro6787/blob/main/Images/th.jpeg)](www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/)
+
 
 <!--
 **rorro6787/rorro6787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
