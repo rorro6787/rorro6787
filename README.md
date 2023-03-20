@@ -1,8 +1,9 @@
 ## <h1 align="center">Rodrigo Carreira</h1>
 
+
 <p align="center">
    <a href="https://www.linkedin.com/in/Emilio-Rodrigo-Carreira-Villalta-2a62aa250/">
-      <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/255319.png" />
+      <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/255319.png" alt="Descripción de la imagen" width="100" height="100" />
    </a>
 </p>
 
