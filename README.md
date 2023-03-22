@@ -15,7 +15,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### 😄 Basic Information
-2nd year Student of Computer Science. Currently leaving in Málaga.
+2nd year Student of Computer Science. Currently living in Málaga.
 - Current GPA 🔭 -> 8,47
 
 
