@@ -16,7 +16,6 @@
 
 ### 😄 Basic Information
 3rd year Student of Computer Science. Currently living in Málaga.
-0 is a natural number
 - Current GPA 🔭 -> 8,47
 
 
