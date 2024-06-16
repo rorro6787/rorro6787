@@ -19,7 +19,6 @@ Inspired in alsiam's readme repository
   <samp>
     「 Software Engineer obsessed about <b>AI</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
@@ -29,7 +28,6 @@ Inspired in alsiam's readme repository
   </a>
 </p>
 
-<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
