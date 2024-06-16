@@ -68,14 +68,15 @@ Inspired in alsiam's readme repository
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SII-Informatica-UMA&repo=ciklum-zumbtech&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Sesión de clientes">
   </a>
   <a href="https://github.com/rorro6787/Database_Administration_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Database_Administration_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Basic Keyloggers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Database_Administration_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
   <a href="https://github.com/rorro6787/A-Algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=A-Algorithm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Basic Port Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=A-Algorithm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="A-Algorithm">
   </a>
   <a href="https://github.com/rorro6787/Compilador_3Direcciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Compilador_3Direcciones&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Programación Bluetooth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Compilador_3Direcciones&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Compilador_3Direcciones">
   </a>
+  
 </div>
 
 
