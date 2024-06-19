@@ -52,7 +52,7 @@ Inspired in alsiam's readme repository
 
 <p align="center">
  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=7F3FBF&border_color=7F3FBF" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=7F3FBF&border_color=7F3FBF" alt="Top Langs">
 </p>
 
 
