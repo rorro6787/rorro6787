@@ -72,8 +72,8 @@ Inspired in alsiam's readme repository
   <a href="https://github.com/rorro6787/A-Algorithm">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=A-Algorithm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="A-Algorithm">
   </a>
-  <a href="https://github.com/rorro6787/Compilador_3Direcciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Compilador_3Direcciones&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Compilador_3Direcciones">
+  <a href="https://github.com/rorro6787/NeuralNetwork">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=NeuralNetwork&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="NeuralNetwork">
   </a>
   
 </div>
