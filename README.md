@@ -89,12 +89,6 @@ Inspired in alsiam's readme repository
 ![rorro6787's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rorro6787&custom_title=rorro6787's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&range=all_time)
 
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rorro6787" alt="GitHub Streak"/>
-  </a>
-</div>
-
 <!--
 **rorro6787/rorro6787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
