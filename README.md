@@ -60,7 +60,6 @@ public class Rodrigo {
    private boolean studying;
    private boolean working;
    private String email;
-   private String telephone;
    private String linkedin;
 
    public Rodrigo() {
@@ -68,8 +67,7 @@ public class Rodrigo {
      this.age = 21;
      this.studying = true;
      this.working = false;
-     this.email = "emiliorodrigo.ecr@gmail.com";
-     this.telephone = "608497060";
+     this.email = "ercarreira2@gmail.com";
      this.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/";
      this.leetcode = "https://leetcode.com/u/rorro3382/";
    }
