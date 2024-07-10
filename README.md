@@ -29,6 +29,8 @@ Inspired in alsiam's readme repository
 </p>
 
 
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -47,20 +49,60 @@ Inspired in alsiam's readme repository
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+ <br>
+</div>
+<br>
+
+```java
+public class Rodrigo {
+  private String name;
+  private int age;
+  private boolean studying;
+  private boolean working;
+  private String email;
+  private String telephone;
+  private String linkedin;
+
+  public Rodrigo() {
+    this.name = "Emilio Rodrigo Carreira Villalta";
+    this.age = 21;
+    this.studying = true;
+    this.working = false;
+    this.email = "emiliorodrigo.ecr@gmail.com";
+    this.telephone = "608497060";
+    this.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/";
+    this.leetcode = "https://leetcode.com/u/rorro3382/"
+  }
+
+  @Override
+  public String toString() {
+    return "Me llamo Rodrigo y estoy terminando mi último año de ingeniería informática en la universidad de
+            Málaga. Estoy increíblemente interesado por el funcionamiento de la IA ya sea explorar los algoritmos y técnicas
+            de aprendizaje automático y procesamiento de lenguaje natural. Constantemente busco oportunidades para aprender y
+            asistir a eventos importantes como Talent Land (donde fui ponente junto a mi profesora de la facultad), el ARITH
+            2024 (en el que fui staff), el DES 2024 y diferentes congresos tecnológicos sobre IA y ciberseguridad celebrados en Málaga.";
+  }
+}
+```
+
+
+
+<div align="center">
+ <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=7F3FBF&border_color=7F3FBF" alt="Top Langs" style="height: 195px; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rorro6787&show_icons=true&theme=radical" alt="rorro6787's User Stats" style="height: 195px;">
 </div>
 
 
-<p align="center">
- <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=7F3FBF&border_color=7F3FBF" alt="Top Langs">
-</p>
+<div align="center">
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=rorro6787&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" />
+    </a>
+</div>
 
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rorro6787&show_icons=true&theme=radical" alt="rorro6787's User Stats">
-</p>
 
 <div align="center">
   <a href="https://github.com/SII-Informatica-UMA/ciklum-zumbtech">
