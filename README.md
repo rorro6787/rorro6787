@@ -79,9 +79,9 @@ public class Rodrigo {
               aprendizaje automático y procesamiento de lenguaje natural. Constantemente busco oportunidades para aprender y asistir
               a eventos importantes como Talent Land (donde fui ponente junto a mi profesora de la facultad), el ARITH 2024 (en el
               que fui staff), el DES 2024 y diferentes congresos tecnológicos sobre IA y ciberseguridad celebrados en Málaga.";
-  }
+   }
 }
-
+  
 public class Main {
    public static void main(String[] args) {
       Rodrigo rodrigo = new Rodrigo();
