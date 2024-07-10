@@ -55,33 +55,33 @@ Inspired in alsiam's readme repository
 
 ```java
 public class Rodrigo {
-  private String name;
-  private int age;
-  private boolean studying;
-  private boolean working;
-  private String email;
-  private String telephone;
-  private String linkedin;
+   private String name;
+   private int age;
+   private boolean studying;
+   private boolean working;
+   private String email;
+   private String telephone;
+   private String linkedin;
 
-  public Rodrigo() {
-    this.name = "Emilio Rodrigo Carreira Villalta";
-    this.age = 21;
-    this.studying = true;
-    this.working = false;
-    this.email = "emiliorodrigo.ecr@gmail.com";
-    this.telephone = "608497060";
-    this.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/";
-    this.leetcode = "https://leetcode.com/u/rorro3382/"
-  }
+   public Rodrigo() {
+     this.name = "Emilio Rodrigo Carreira Villalta";
+     this.age = 21;
+     this.studying = true;
+     this.working = false;
+     this.email = "emiliorodrigo.ecr@gmail.com";
+     this.telephone = "608497060";
+     this.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/";
+     this.leetcode = "https://leetcode.com/u/rorro3382/";
+   }
 
-  @Override
-  public String toString() {
-    return "Me llamo Rodrigo y estoy terminando mi último año de ingeniería informática en la universidad de
-            Málaga. Estoy increíblemente interesado por el funcionamiento de la IA ya sea explorar los algoritmos y técnicas
-            de aprendizaje automático y procesamiento de lenguaje natural. Constantemente busco oportunidades para aprender y
-            asistir a eventos importantes como Talent Land (donde fui ponente junto a mi profesora de la facultad), el ARITH
-            2024 (en el que fui staff), el DES 2024 y diferentes congresos tecnológicos sobre IA y ciberseguridad celebrados en Málaga.";
-  }
+   @Override
+   public String toString() {
+     return "Me llamo Rodrigo y estoy terminando mi último año de ingeniería informática en la universidad de Málaga.
+             Estoy increíblemente interesado por el funcionamiento de la IA ya sea explorar los algoritmos y técnicas de
+             aprendizaje automático y procesamiento de lenguaje natural. Constantemente busco oportunidades para aprender y asistir
+             a eventos importantes como Talent Land (donde fui ponente junto a mi profesora de la facultad), el ARITH 2024 (en el
+             que fui staff), el DES 2024 y diferentes congresos tecnológicos sobre IA y ciberseguridad celebrados en Málaga.";
+   }
 }
 ```
 
