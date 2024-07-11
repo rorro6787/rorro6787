@@ -92,10 +92,13 @@ public class Main {
 
 
 
+
 <div align="center">
  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rorro6787&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rorro6787's User Stats" style="height: 250px; margin-right: 10px;  margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=7F3FBF&border_color=7F3FBF" alt="Top Langs" style="height: 250px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rorro6787&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rorro6787's User Stats" style="height: 350px; margin-right: 10px;  margin-right: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=pie&theme=tokyonight" alt="Top Langs" style="height: 350px; margin-right: 10px;   />
+  </a>
 </div>
 
 
