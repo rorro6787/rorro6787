@@ -56,17 +56,6 @@ Inspired in alsiam's readme repository
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
  <br>
 </div>
-
-### 💡 Acerca de
-<ul>
-
-🤖🧠 I have experience in designing and experimenting with neural network models applied to computer vision and natural language processing, and I possess several technical certifications provided by Nvidia's DLI. Regarding CUDA, I am familiar with programming and deploying threads to optimize parallel computations on GPU.
-
-💻🛠️ Concerning my technical skills, my studies in computer engineering have provided me with holistic knowledge in a wide variety of fields. I am proficient in various programming languages such as C/C++, Java, Haskell, CUP, JFLEX, SQL, Git, assembly, and Python, and I have basic knowledge of Linux bash, HTML, CSS, and JS. My training in Java is advanced, covering data structures, algorithms, object-oriented programming, systems and concurrency, compiler design, and project development with Spring Boot. I also have basic knowledge in networks and distributed systems, including socket analysis and network protocols with tools like Wireshark, and familiarity with TCP and TLS protocols.
-
-🎾🤝🏅
- I am an enthusiast of sports, especially tennis, and I enjoy staying active and healthy. I am passionate about creating and editing visually appealing content. I enjoy working in a team and building meaningful relationships both professionally and personally. I am a self-taught, charismatic, and empathetic person, committed to achieving my goals and constantly improving myself.
-
 <br>
 
 ```java
@@ -90,11 +79,11 @@ public class Rodrigo {
 
    @Override
    public String toString() {
-      return "Me llamo Rodrigo y estoy terminando mi último año de ingeniería informática en la universidad de Málaga.
-              Estoy increíblemente interesado por el funcionamiento de la IA ya sea explorar los algoritmos y técnicas de
-              aprendizaje automático y procesamiento de lenguaje natural. Constantemente busco oportunidades para aprender y asistir
-              a eventos importantes como Talent Land (donde fui ponente junto a mi profesora de la facultad), el ARITH 2024 (en el
-              que fui staff), el DES 2024 y diferentes congresos tecnológicos sobre IA y ciberseguridad celebrados en Málaga.";
+      return "My name is Rodrigo and I am finishing my last year of computer engineering at the University of Málaga.
+              I am incredibly interested in the workings of AI, whether it is exploring algorithms and techniques of
+              machine learning and natural language processing. I constantly seek opportunities to learn and attend
+              important events such as Talent Land (where I was a speaker alongside my faculty professor), ARITH 2024
+              (where I was staff), DES 2024, and various technology conferences on AI and cybersecurity held in Málaga.";
    }
 }
   
@@ -106,7 +95,15 @@ public class Main {
 }
 ```
 
+### 💡 Acerca de
+<ul>
 
+🤖🧠 I have experience in designing and experimenting with neural network models applied to computer vision and natural language processing, and I possess several technical certifications provided by Nvidia's DLI. Regarding CUDA, I am familiar with programming and deploying threads to optimize parallel computations on GPU.
+
+💻🛠️ Concerning my technical skills, my studies in computer engineering have provided me with holistic knowledge in a wide variety of fields. I am proficient in various programming languages such as C/C++, Java, Haskell, CUP, JFLEX, SQL, Git, assembly, and Python, and I have basic knowledge of Linux bash, HTML, CSS, and JS. My training in Java is advanced, covering data structures, algorithms, object-oriented programming, systems and concurrency, compiler design, and project development with Spring Boot. I also have basic knowledge in networks and distributed systems, including socket analysis and network protocols with tools like Wireshark, and familiarity with TCP and TLS protocols.
+
+🎾🤝🏅
+ I am an enthusiast of sports, especially tennis, and I enjoy staying active and healthy. I am passionate about creating and editing visually appealing content. I enjoy working in a team and building meaningful relationships both professionally and personally. I am a self-taught, charismatic, and empathetic person, committed to achieving my goals and constantly improving myself.
 
 
 <div align="center">
