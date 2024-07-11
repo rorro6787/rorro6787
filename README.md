@@ -66,6 +66,7 @@ public class Rodrigo {
    private boolean working;
    private String email;
    private String linkedin;
+   private String leetcode;
 
    public Rodrigo() {
       this.name = "Emilio Rodrigo Carreira Villalta";
