@@ -21,7 +21,7 @@ Inspired in alsiam's readme repository
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Software+Engineer+obsessed+about+AI+」;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Software+%2B+AI+Engineer+」;" alt="Typing SVG" />
     </a>
 </div>
 
