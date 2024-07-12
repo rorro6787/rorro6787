@@ -96,7 +96,7 @@ public class Main {
 }
 ```
 
-### 💡 Acerca de
+### 💡 About me
 <ul>
 
 🤖🧠 I have experience in designing and experimenting with neural network models applied to computer vision and natural language processing, and I possess several technical certifications provided by Nvidia's DLI. Regarding CUDA, I am familiar with programming and deploying threads to optimize parallel computations on GPU.
