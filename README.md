@@ -58,42 +58,27 @@ Inspired in alsiam's readme repository
 </div>
 <br>
 
-```java
-public class Rodrigo {
-   private String name;
-   private int age;
-   private boolean studying;
-   private boolean working;
-   private String email;
-   private String linkedin;
-   private String leetcode;
+```python
+class Rodrigo:
+    def __init__(self):
+        self.name = "Emilio Rodrigo Carreira Villalta"
+        self.age = 21
+        self.studying = True
+        self.working = False
+        self.email = "ercarreira2@gmail.com"
+        self.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/"
+        self.leetcode = "https://leetcode.com/u/rorro3382/"
 
-   public Rodrigo() {
-      this.name = "Emilio Rodrigo Carreira Villalta";
-      this.age = 21;
-      this.studying = true;
-      this.working = false;
-      this.email = "ercarreira2@gmail.com";
-      this.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/";
-      this.leetcode = "https://leetcode.com/u/rorro3382/";
-   }
+    def __str__(self):
+        return ("My name is Rodrigo and I am finishing my last year of computer engineering at the University of Málaga. "
+                "I am incredibly interested in the workings of AI, whether it is exploring algorithms and techniques of "
+                "machine learning and natural language processing. I constantly seek opportunities to learn and attend "
+                "important events such as Talent Land (where I was a speaker alongside my faculty professor), ARITH 2024 "
+                "(where I was staff), DES 2024, and various technology conferences on AI and cybersecurity held in Málaga.")
 
-   @Override
-   public String toString() {
-      return "My name is Rodrigo and I am finishing my last year of computer engineering at the University of Málaga.
-              I am incredibly interested in the workings of AI, whether it is exploring algorithms and techniques of
-              machine learning and natural language processing. I constantly seek opportunities to learn and attend
-              important events such as Talent Land (where I was a speaker alongside my faculty professor), ARITH 2024
-              (where I was staff), DES 2024, and various technology conferences on AI and cybersecurity held in Málaga.";
-   }
-}
-  
-public class Main {
-   public static void main(String[] args) {
-      Rodrigo rodrigo = new Rodrigo();
-      System.out.println(rodrigo);
-   }
-}
+if __name__ == "__main__":
+    rodrigo = Rodrigo()
+    print(rodrigo)
 ```
 
 ### 💡 About me
