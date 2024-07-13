@@ -70,7 +70,7 @@ class Rodrigo:
         self.leetcode = "https://leetcode.com/u/rorro3382/"
 
     def __str__(self):
-        return ("My name is Rodrigo and I am finishing my last year of computer engineering at the University of Málaga. "
+        return ("My name is Rodrigo and I am finishing my last year of software engineering at the University of Málaga. "
                 "I am incredibly interested in the workings of AI, whether it is exploring algorithms and techniques of "
                 "machine learning and natural language processing. I constantly seek opportunities to learn and attend "
                 "important events such as Talent Land (where I was a speaker alongside my faculty professor), ARITH 2024 "
