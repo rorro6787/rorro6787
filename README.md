@@ -132,10 +132,10 @@ if __name__ == "__main__":
 <h3 align="center">📄 CV</h3>
 <p align="center">
  <a href="https://github.com/rorro6787/rorro6787/blob/main/Images/CV_Espa%C3%B1ol_NoExp.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Spanish%20Version-%2300A3E0" alt="Certificación Oracle Profesional AI Infrastructura">
+    <img src="https://img.shields.io/badge/CV-SPANISH%20VERSION-%2300A3E0" alt="Certificación Oracle Profesional AI Infrastructura">
   </a><br>
   <a href="https://github.com/rorro6787/rorro6787/blob/main/Images/CV_Ingles_NoExp.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-English%20Version-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+    <img src="https://img.shields.io/badge/CV-ENGLISH%20VERSION-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
   </a>
 </p>
 
