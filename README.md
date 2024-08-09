@@ -96,6 +96,12 @@ if __name__ == "__main__":
 🎾🤝🏅
  I am an enthusiast of sports, especially tennis, and I enjoy staying active and healthy. I am passionate about creating and editing visually appealing content. I enjoy working in a team and building meaningful relationships both professionally and personally. I am a self-taught, charismatic, and empathetic person, committed to achieving my goals and constantly improving myself.
 
+## 🏆 Certificaciones
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI-Certified%20Professional-%2300C851" alt="Certificación Oracle Profesional AI Infrastructura">
+</a>
+
 
 <div align="center">
   <br>
