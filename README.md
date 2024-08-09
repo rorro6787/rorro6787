@@ -86,7 +86,51 @@ if __name__ == "__main__":
     print(rodrigo)
 ```
 
-### 💡 About me
+<h3 align="center">🏆 Certifications</h3>
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+  <br>
+  <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
+    <img src="https://img.shields.io/badge/Rapid%20Application%20Development%20with%20%20LLMs-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
+  </a>
+  <br>
+  <a href="https://learn.nvidia.com/certificates?id=41b0cdb2f9714217aa7f65d4f23f8fc3" target="_blank">
+    <img src="https://img.shields.io/badge/Building%20Transformer%20Based%20NLP%20Applications%20-Nvidia%20DLI-%2300C851" alt="Certificación Building Transformer Based NLP Applications">
+  </a>
+  <br>
+  <a href="https://learn.nvidia.com/certificates?id=ab163f0f315946509a663944a01e37e2" target="_blank">
+    <img src="https://img.shields.io/badge/Fundamentals%20of%20Deep%20Learning%20-Nvidia%20DLI-%2300C851" alt="Certificación Fundamentals of Deep Learning">
+  </a>
+  <br>
+  <a href="https://learn.nvidia.com/certificates?id=24256f061e75432899a9f7db2f0edebf" target="_blank">
+    <img src="https://img.shields.io/badge/Fundamentals%20of%20Accelerated%20Computing%20with%20Cuda%20C/C++%20-Nvidia%20DLI-%2300C851" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
+  </a>
+ <br>
+ <a href="https://github.com/rorro6787/rorro6787/blob/main/Images/ingles.jpeg" target="_blank">
+    <img src="https://img.shields.io/badge/Certificate%20of%20Proficiency%20in%20English%20(C2)%20-Cambridge%20University%20Press%20and%20Assessment%20English-%2300A3E0" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
+  </a><br>
+ <a href="https://mastermind.ac/certificates/b6a0dc594c9a4193aec061c398ae4a87" target="_blank">
+    <img src="https://img.shields.io/badge/Git:%20¡de%20Noob%20a%20Pro!%20-Mastermind-%23F03C3C" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
+  </a><br>
+ <a href="https://mastermind.ac/certificates/29bc709927a348e6bad0958ae8959088" target="_blank">
+    <img src="https://img.shields.io/badge/Aprende%20a%20programar%20con%20Python%20-Mastermind-%23F03C3C" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
+  </a><br>
+ <a href="https://www.udemy.com/certificate/UC-477f01b1-4984-466c-b27b-45eda7ed0c72/" target="_blank">
+    <img src="https://img.shields.io/badge/Aprende%20a%20usar%20bien%20Microsoft%20Word%20-Udemy-%239C27B0" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
+  </a><br>
+ <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F09397A2CCA0CCE103FD6E5FD4871757D1B8514D64F6CB652E6FC8BE30D753B8" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Guided%20Learning%20Content%20Developer%20Certified%20Foundations%20Associate-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a><br>
+ <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DCC06D1FE4C8D1E31A9756A7C47E22F6EFBCFAA116AF1FD0DCB9836D8E04410B" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Guided%20Learning%20Project%20Management%20Foundations%20Associate-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+</p>
+
+
+<h3 align="center">💡 About me</h3>
 <ul>
 
 🤖🧠 I have experience in designing and experimenting with neural network models applied to computer vision and natural language processing, and I possess several technical certifications provided by Nvidia's DLI. Regarding CUDA, I am familiar with programming and deploying threads to optimize parallel computations on GPU.
@@ -95,13 +139,6 @@ if __name__ == "__main__":
 
 🎾🤝🏅
  I am an enthusiast of sports, especially tennis, and I enjoy staying active and healthy. I am passionate about creating and editing visually appealing content. I enjoy working in a team and building meaningful relationships both professionally and personally. I am a self-taught, charismatic, and empathetic person, committed to achieving my goals and constantly improving myself.
-
-## 🏆 Certificaciones
-
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037" target="_blank">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI-Certified%20Professional-%2300C851" alt="Certificación Oracle Profesional AI Infrastructura">
-</a>
-
 
 <div align="center">
   <br>
