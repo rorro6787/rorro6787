@@ -2,9 +2,9 @@
 Inspired in alsiam's readme repository
  -->
 
-<a href="https://komarev.com/ghpvc/?username=rorro6787">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rorro6787&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=rorro6787&style=for-the-badge&color=green" alt=""/>
+</div>
 
 
 
@@ -30,6 +30,9 @@ Inspired in alsiam's readme repository
 <p align="center">
   <a href="https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ <a href="https://t.me/rorro3382" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
   </a>
  <br>
 </p>
