@@ -3,7 +3,7 @@ Inspired in alsiam's readme repository
  -->
 
 <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=rorro6787&style=for-the-badge&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rorro6787&style=for-the-badge&color=006400" alt=""/>
 </div>
 
 
