@@ -115,9 +115,6 @@ if __name__ == "__main__":
  <a href="https://github.com/rorro6787/rorro6787/blob/main/Images/ingles.jpeg" target="_blank">
     <img src="https://img.shields.io/badge/Certificate%20of%20Proficiency%20in%20English%20(C2)%20-Cambridge%20University%20Press%20and%20Assessment%20English-%2300A3E0" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
   </a><br>
- <a href="https://mastermind.ac/certificates/052baed36e5a4e74a12ab8246a3f1943" target="_blank">
-    <img src="https://img.shields.io/badge/Desarrollo%20Full%20Stack%20con%20Laravel%20&%20VueJS%20-Mastermind-%23F03C3C" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
-  </a><br>
  <a href="https://mastermind.ac/certificates/b6a0dc594c9a4193aec061c398ae4a87" target="_blank">
     <img src="https://img.shields.io/badge/Git:%20¡de%20Noob%20a%20Pro!%20-Mastermind-%23F03C3C" alt="Certificación Fundamentals of Accelerated Computing with Cuda C/C++">
   </a><br>
