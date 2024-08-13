@@ -146,8 +146,8 @@ if __name__ == "__main__":
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=rorro6787&show_icons=true&theme=jolly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rorro6787's User Stats" style="height: 350px; margin-right: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=pie&theme=jolly&hide=Jupyter%20Notebook&langs_count=10&custom_title=My%20Language%20Stats&langs_color=java:red" alt="Top Langs" style="height: 350px; margin-right: 10px;" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorro6787&layout=pie&theme=jolly&hide=Jupyter%20Notebook,php,blade,html,css,tex&langs_count=10&custom_title=My%20Language%20Stats&langs_color=java:red" alt="Top Langs" style="height: 350px; margin-right: 10px;" />
+</a>
 </div>
 
 
