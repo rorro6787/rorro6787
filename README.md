@@ -36,8 +36,14 @@ Inspired in alsiam's readme repository
   </a>
  <br>
 </p>
-
-
+ <br>
+<div align="center">
+<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/64777c3e071ec953437e6950_logo.svg" title="Java" alt="Java" width="120" height="40"/>&nbsp;
+<img src="https://github.com/rorro6787/rorro6787/blob/main/langchain-seeklogo.svg" title="Java" alt="Java" width="120" height="40"/>&nbsp;
+ <img src="https://github.com/rorro6787/rorro6787/blob/main/pytorch-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <br>
+</div>
+ <br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -96,6 +102,10 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
   </a>
   <br>
+ <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
+    <img src="https://img.shields.io/badge/Efficient%20Large%20Language%20Model%20(LLMs)%20%20Customization-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
+  </a>
+ <br>
   <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
     <img src="https://img.shields.io/badge/Rapid%20Application%20Development%20with%20%20LLMs-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
