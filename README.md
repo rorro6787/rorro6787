@@ -38,10 +38,10 @@ Inspired in alsiam's readme repository
 </p>
  <br>
 <div align="center">
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/64777c3e071ec953437e6950_logo.svg" title="Java" alt="Java" width="120" height="40"/>&nbsp;
-<img src="https://github.com/rorro6787/rorro6787/blob/main/langchain-seeklogo.svg" title="Java" alt="Java" width="120" height="40"/>&nbsp;
- <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/docker-logo-white.svg" title="Java" alt="Java" width="120" height="40"/>&nbsp&nbsp&nbsp;
- <img src="https://github.com/rorro6787/rorro6787/blob/main/pytorch-icon.svg" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/64777c3e071ec953437e6950_logo.svg" title="Java" alt="Java" width="120" height="40"/>
+ <img src="https://github.com/rorro6787/rorro6787/blob/main/langchain-seeklogo.svg" title="Java" alt="Java" width="120" height="40"/>
+ <img src="https://github.com/rorro6787/rorro6787/blob/main/pytorch-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+  <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/docker-logo-white.svg" title="Java" alt="Java" width="120" height="40"/>
  <br>
 </div>
  <br>
