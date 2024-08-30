@@ -89,7 +89,7 @@ class Rodrigo:
                 "I am incredibly interested in the workings of AI, whether it is exploring algorithms and techniques of "
                 "machine learning and natural language processing. I constantly seek opportunities to learn and attend "
                 "important events such as Talent Land (where I was a speaker alongside my faculty professor), ARITH 2024 "
-                "(where I was staff), DES 2024, and various technology conferences on AI and cybersecurity held in Málaga.")
+                "(where I was staff), DES 2024, YOLO Vision 2024 and and various technology conferences on AI and cybersecurity held in Málaga.")
 
 if __name__ == "__main__":
     rodrigo = Rodrigo()
