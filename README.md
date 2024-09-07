@@ -34,9 +34,7 @@ Inspired in alsiam's readme repository
  <a href="https://t.me/rorro3382" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
   </a>
- <br>
 </p>
- <br>
 <div align="center">
 <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/64777c3e071ec953437e6950_logo.svg" title="Java" alt="Java" width="120" height="40"/>
  <img src="https://github.com/rorro6787/rorro6787/blob/main/langchain-seeklogo.svg" title="Java" alt="Java" width="120" height="40"/>
