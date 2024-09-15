@@ -93,6 +93,13 @@ if __name__ == "__main__":
     rodrigo = Rodrigo()
     print(rodrigo)
 ```
+<h3 align="center">📄 Portfolio</h3>
+<p align="center">
+ <a href="https://porfolio-rodrigo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My-Personal%20Portfolio%20-%2300A3E0" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+</p>
+
 
 <h3 align="center">🏆 Certifications</h3>
 
