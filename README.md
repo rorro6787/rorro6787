@@ -193,8 +193,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
   <a href="https://github.com/rorro6787/malicious-mail-detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=malicious-mail-detector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
-  <a href="https://github.com/SII-Informatica-UMA/Computer_Vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SII-Informatica-UMA&repo=Computer_Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Sesión de clientes">
+  <a href="https://github.com/rorro6787/Computer_Vision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Computer_Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
   <a href="https://github.com/rorro6787/Robotics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Robotics&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
