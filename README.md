@@ -104,14 +104,14 @@ if __name__ == "__main__":
 <h3 align="center">🏆 Certifications</h3>
 
 <p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
-  </a>
-  <br>
  <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
     <img src="https://img.shields.io/badge/Efficient%20Large%20Language%20Model%20(LLMs)%20%20Customization-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
  <br>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+  <br>
   <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
     <img src="https://img.shields.io/badge/Rapid%20Application%20Development%20with%20%20LLMs-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
