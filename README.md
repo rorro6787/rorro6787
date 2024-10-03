@@ -77,7 +77,7 @@ class Rodrigo:
         self.name = "Emilio Rodrigo Carreira Villalta"
         self.age = 21
         self.studying = True
-        self.working = False
+        self.working = True
         self.email = "ercarreira2@gmail.com"
         self.linkedin = "https://www.linkedin.com/in/emilio-rodrigo-carreira-villalta-2a62aa250/"
         self.leetcode = "https://leetcode.com/u/rorro3382/"
