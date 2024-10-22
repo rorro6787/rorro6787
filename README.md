@@ -104,6 +104,14 @@ if __name__ == "__main__":
 <h3 align="center">🏆 Certifications</h3>
 
 <p align="center">
+  <a href="https://learn.nvidia.com/certificates?id=9nn5auHiTg-pNW5kd4o-EA#" target="_blank">
+    <img src="https://img.shields.io/badge/Disaster%20Risk%20Monitoring%20Using%20Setellite%20%20Imagery-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
+  </a>
+ <br>
+  <a href="https://learn.nvidia.com/certificates?id=PgFiuC9URCa0CyNw5C7HKQ" target="_blank">
+    <img src="https://img.shields.io/badge/Getting%20Started%20With%20AI%20On%20%20Jetson%20Nano-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
+  </a>
+ <br>
  <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
     <img src="https://img.shields.io/badge/Efficient%20Large%20Language%20Model%20(LLMs)%20%20Customization-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
@@ -193,21 +201,20 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
   <a href="https://github.com/rorro6787/malicious-mail-detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=malicious-mail-detector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
+ <a href="https://github.com/rorro6787/Hackaton">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Hackaton&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
+  </a>
   <a href="https://github.com/rorro6787/Computer_Vision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Computer_Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
   <a href="https://github.com/rorro6787/Robotics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Robotics&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
-  <a href="https://github.com/SII-Informatica-UMA/ciklum-zumbtech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SII-Informatica-UMA&repo=ciklum-zumbtech&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Sesión de clientes">
-  </a>
+ 
   <a href="https://github.com/rorro6787/Database_Administration_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Database_Administration_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a>
- <a href="https://github.com/rorro6787/Hackaton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Hackaton&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
+ 
 </div>
 
 
