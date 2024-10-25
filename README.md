@@ -102,8 +102,11 @@ if __name__ == "__main__":
 
 
 <h3 align="center">🏆 Certifications</h3>
-
 <p align="center">
+ <a href="https://github.com/rorro6787/rorro6787/blob/main/Images/Salesforce_AI_Associate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-Salesforce-%230A74DA" alt="Certificación Rapid Application Development with LLMs">
+  </a>
+ <br>
   <a href="https://learn.nvidia.com/certificates?id=9nn5auHiTg-pNW5kd4o-EA#" target="_blank">
     <img src="https://img.shields.io/badge/Disaster%20Risk%20Monitoring%20Using%20Setellite%20%20Imagery-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
