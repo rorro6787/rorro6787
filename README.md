@@ -220,6 +220,9 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
   <a href="https://github.com/rorro6787/Database_Administration_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Database_Administration_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
   </a> 
+ <a href="https://github.com/rorro6787/portfolio-selection-nn-hopfield-dynamics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=portfolio-selection-nn-hopfield-dynamics&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
+  </a> 
 </div>
 
 
