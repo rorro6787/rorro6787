@@ -23,6 +23,7 @@ Inspired in alsiam's readme repository
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Software+%2B+AI+Engineer+」;" alt="Typing SVG" />
     </a>
+ <br>
 </div>
 
 
@@ -35,39 +36,12 @@ Inspired in alsiam's readme repository
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-<div align="center">
-<img src="https://github.com/rorro6787/rorro6787/blob/main/Images/64777c3e071ec953437e6950_logo.svg" title="Java" alt="Java" width="120" height="40"/>
- <img src="https://github.com/rorro6787/rorro6787/blob/main/langchain-seeklogo.svg" title="Java" alt="Java" width="120" height="40"/>
- <img src="https://github.com/rorro6787/rorro6787/blob/main/pytorch-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-  <img src="https://github.com/rorro6787/rorro6787/blob/main/Images/docker-logo-white.svg" title="Java" alt="Java" width="120" height="40"/>
- <br>
-</div>
- <br>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <br>
 
-</div>
+<p align="center">
+  <a href="https://github.com/rorro6787?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
-<div align="center">
- <br>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
- <br>
-</div>
-<br>
+
 
 ```python
 class Rodrigo:
@@ -91,6 +65,22 @@ if __name__ == "__main__":
     rodrigo = Rodrigo()
     print(rodrigo)
 ```
+
+
+<h3 align="center">💡 About me</h3>
+<ul>
+
+🤖🧠 I have experience in designing and experimenting with neural network models applied to computer vision and natural language processing, and I possess several technical certifications provided by Nvidia's DLI. Regarding CUDA, I am familiar with programming and deploying threads to optimize parallel computations on GPU.
+
+💻🛠️ Concerning my technical skills, my studies in computer engineering have provided me with holistic knowledge in a wide variety of fields. I am proficient in various programming languages such as C/C++, Java, Haskell, CUP, JFLEX, SQL, Git, assembly, and Python, and I have basic knowledge of Linux bash, HTML, CSS, and JS. My training in Java is advanced, covering data structures, algorithms, object-oriented programming, systems and concurrency, compiler design, and project development with Spring Boot. I also have basic knowledge in networks and distributed systems, including socket analysis and network protocols with tools like Wireshark, and familiarity with TCP and TLS protocols.
+
+🎾🤝🏅
+ I am an enthusiast of sports, especially tennis, and I enjoy staying active and healthy. I am passionate about creating and editing visually appealing content. I enjoy working in a team and building meaningful relationships both professionally and personally. I am a self-taught, charismatic, and empathetic person, committed to achieving my goals and constantly improving myself.
+
+
+
+
+
 <h3 align="center">📄 Portfolio</h3>
 <p align="center">
  <a href="https://porfolio-rodrigo.vercel.app/" target="_blank">
@@ -157,15 +147,6 @@ if __name__ == "__main__":
   </a>
 </p>
 
-<h3 align="center">💡 About me</h3>
-<ul>
-
-🤖🧠 I have experience in designing and experimenting with neural network models applied to computer vision and natural language processing, and I possess several technical certifications provided by Nvidia's DLI. Regarding CUDA, I am familiar with programming and deploying threads to optimize parallel computations on GPU.
-
-💻🛠️ Concerning my technical skills, my studies in computer engineering have provided me with holistic knowledge in a wide variety of fields. I am proficient in various programming languages such as C/C++, Java, Haskell, CUP, JFLEX, SQL, Git, assembly, and Python, and I have basic knowledge of Linux bash, HTML, CSS, and JS. My training in Java is advanced, covering data structures, algorithms, object-oriented programming, systems and concurrency, compiler design, and project development with Spring Boot. I also have basic knowledge in networks and distributed systems, including socket analysis and network protocols with tools like Wireshark, and familiarity with TCP and TLS protocols.
-
-🎾🤝🏅
- I am an enthusiast of sports, especially tennis, and I enjoy staying active and healthy. I am passionate about creating and editing visually appealing content. I enjoy working in a team and building meaningful relationships both professionally and personally. I am a self-taught, charismatic, and empathetic person, committed to achieving my goals and constantly improving myself.
 
 <div align="center">
   <br>
@@ -189,49 +170,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 </div>
 
 
-<div align="center">
- <a href="https://github.com/rorro6787/img-desc-visually-impaired">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=img-desc-visually-impaired&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="A-Algorithm">
-  </a>
- <a href="https://github.com/rorro6787/ImageTracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=ImageTracking&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="A-Algorithm">
-  </a>
-  <a href="https://github.com/rorro6787/NeuralNetwork">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=NeuralNetwork&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="NeuralNetwork">
-  </a>
- <a href="https://github.com/rorro6787/randomized-based-feedforward-neural-network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=randomized-based-feedforward-neural-network&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
- <a href="https://github.com/rorro6787/Hackaton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Hackaton&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
-    <a href="https://github.com/rorro6787/malicious-mail-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=malicious-mail-detector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
-  <a href="https://github.com/rorro6787/Computer_Vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Computer_Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
-  <a href="https://github.com/rorro6787/Robotics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Robotics&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
- <a href="https://github.com/SII-Informatica-UMA/ciklum-zumbtech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SII-Informatica-UMA&repo=ciklum-zumbtech&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a>
-  <a href="https://github.com/rorro6787/Database_Administration_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=Database_Administration_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a> 
- <a href="https://github.com/rorro6787/portfolio-selection-nn-hopfield-dynamics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorro6787&repo=portfolio-selection-nn-hopfield-dynamics&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Database_Administration_Project">
-  </a> 
-</div>
 
-
-
-
-<p align="center">
-   <br>
-  <a href="https://github.com/rorro6787?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 ![rorro6787's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rorro6787&custom_title=rorro6787's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&range=all_time)
 
