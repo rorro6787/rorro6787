@@ -1,0 +1,26 @@
+name: Birthday Update
+
+on:
+  schedule:
+    # Runs once a year on your birthday (January 8th)
+    - cron: '0 0 16 1 *'  # 0 0 16 1 * means January 16th at midnight UTC
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update age in profile README
+        run: |
+          python3 update_age.py
+
+      - name: Commit and push updated README
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update age on birthday"
+          git push
