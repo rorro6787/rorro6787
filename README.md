@@ -47,7 +47,7 @@ Inspired in alsiam's readme repository
 class Rodrigo:
     def __init__(self):
         self.name = "Emilio Rodrigo Carreira Villalta"
-        self.age = 21
+        self.age = 22
         self.studying = True
         self.working = True
         self.email = "ercarreira2@gmail.com"
