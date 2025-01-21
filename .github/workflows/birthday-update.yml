@@ -4,6 +4,7 @@ on:
   schedule:
     # Runs once a year on your birthday (January 16th)
     - cron: '0 0 16 1 *'  # 0 0 16 1 * means January 16th at midnight UTC
+  workflow_dispatch: # Agrega un disparador manual
 
 jobs:
   update-age:
