@@ -170,10 +170,13 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 </div>
 
 
-
-
 ![rorro6787's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rorro6787&custom_title=rorro6787's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&range=all_time)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 <!--
 **rorro6787/rorro6787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
