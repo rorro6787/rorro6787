@@ -2,34 +2,30 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta diariamente a medianoche
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Ejecuta todos los días a la medianoche UTC
+  workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar el repositorio
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Configurar Python
-        uses: actions/setup-python@v4
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          python-version: 3.8
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Instalar dependencias
+      - name: Commit and push generated files
         run: |
-          pip install matplotlib numpy
-
-      - name: Generar la animación de la serpiente
-        run: |
-          curl -O https://raw.githubusercontent.com/Platane/snk/main/main.py
-          python3 main.py --user rorro6787 --output output/snake.svg
-
-      - name: Subir el archivo generado
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: snake.svg
-          
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add dist/
+          git commit -m "Update snake animation"
+          git push
