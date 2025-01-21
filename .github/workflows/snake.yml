@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta diariamente a medianoche
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+
+      - name: Instalar dependencias
+        run: |
+          pip install matplotlib numpy
+
+      - name: Generar la animación de la serpiente
+        run: |
+          curl -O https://raw.githubusercontent.com/Platane/snk/main/main.py
+          python3 main.py --user rorro6787 --output output/snake.svg
+
+      - name: Subir el archivo generado
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: snake.svg
+          
