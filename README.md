@@ -91,6 +91,10 @@ if __name__ == "__main__":
 
 <h3 align="center">🏆 Certifications</h3>
 <p align="center">
+ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C9D03DE7C2088E360C9EEE5BE3A2DD9E8D211309A565FA06D6F8D6AFA9BBEA5A" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+  <br>
  <a href="https://github.com/rorro6787/rorro6787/blob/main/Images/Salesforce_AI_Associate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-Salesforce-%230A74DA" alt="Certificación Rapid Application Development with LLMs">
   </a>
