@@ -10,21 +10,17 @@ Inspired in alsiam's readme repository
 
 <!-- Intro  -->
 <h3 align="center">
-        
 </h3>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Rodrigo+Carreira&quot;" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=%3E+echo+-e+%22I+am+Rodrigo+Carreira%22" alt="Typing SVG" />
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Software+%2B+AI+Engineer+」;" alt="Typing SVG" />
-    </a>
- <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=%E3%80%8C+Software+%2B+AI+Engineer+%E3%80%8D" alt="Typing SVG" />
+<br><br>
 </div>
+
 
 
 
