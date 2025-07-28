@@ -91,6 +91,10 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Data%20Science%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
   </a>
   <br>
+ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=40B97065B7DE4C06687FB0689D921902ABC9779F7A2B76153DE87F9AC6ECAF63" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+  <br>
  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C9D03DE7C2088E360C9EEE5BE3A2DD9E8D211309A565FA06D6F8D6AFA9BBEA5A" target="_blank">
     <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
   </a>
@@ -111,10 +115,6 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Efficient%20Large%20Language%20Model%20(LLMs)%20%20Customization-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
  <br>
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
-  </a>
-  <br>
   <a href="https://learn.nvidia.com/certificates?id=bqNe6vAJSPGOZKYifg4YpQ" target="_blank">
     <img src="https://img.shields.io/badge/Rapid%20Application%20Development%20with%20%20LLMs-Nvidia%20DLI-%2300C851" alt="Certificación Rapid Application Development with LLMs">
   </a>
