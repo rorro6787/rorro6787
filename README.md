@@ -87,6 +87,10 @@ if __name__ == "__main__":
 
 <h3 align="center">🏆 Certifications</h3>
 <p align="center">
+ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2BDDDCD9363B054F5122AF769B77E8BA9F368CE7E45238AA15AB3247D45C9CD4" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Data%20Science%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
+  </a>
+  <br>
  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C9D03DE7C2088E360C9EEE5BE3A2DD9E8D211309A565FA06D6F8D6AFA9BBEA5A" target="_blank">
     <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Profesional AI Infrastructura">
   </a>
