@@ -1,6 +1,6 @@
-# Entrega Concurso
+# Entrega TFG III Congreso de Inteligencia Artificial de Andalucía
 
-Este directorio contiene los archivos y enlaces correspondientes a mi participación en el concurso.
+Este directorio contiene los archivos y enlaces correspondientes a mi participación en el III Congreso de Inteligencia Artificial de Andalucía.
 
 ## Archivos incluidos
 - [Trabajo (PDF completo)](https://github.com/rorro6787/rorro6787/blob/main/dist/TFG/TFG_Rodrigo_Carreira_Villalta.pdf)  
