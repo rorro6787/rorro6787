@@ -1,6 +1,6 @@
-# Entrega TFG III Congreso de Inteligencia Artificial de Andalucía
+# Entrega AEPIA 2026 TFG
 
-Este directorio contiene los archivos y enlaces correspondientes a mi participación en el III Congreso de Inteligencia Artificial de Andalucía.
+Este directorio contiene los archivos y enlaces correspondientes a mi participación en la Convocatoria 2026 del Premio AEPIA al Mejor Trabajo Fin de Grado y al Mejor Trabajo Fin de Máster
 
 ## Archivos incluidos
 - [Trabajo (PDF)](https://github.com/rorro6787/rorro6787/blob/main/dist/TFG/TFG_Rodrigo_Carreira_Villalta.pdf)  
